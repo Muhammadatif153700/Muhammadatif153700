@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Muhammad Atif
 
-
 ### 🎓 Computer Science Student | 💻 Software Developer | 🌐 Web & Mobile Developer
 
 <p align="center">
@@ -18,7 +17,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨💻 About Me
 
 I'm a **Computer Science student** passionate about software development, web development, mobile application development, databases, and cybersecurity.
 
@@ -59,6 +58,7 @@ I believe in learning by building projects and continuously improving my technic
 ## 💻 Programming Languages
 
 <p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -71,6 +71,8 @@ I believe in learning by building projects and continuously improving my technic
 ## 🌐 Web Development
 
 <p>
+  <img src="https://img.shields.io/badge/.NET_10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -90,6 +92,7 @@ I believe in learning by building projects and continuously improving my technic
 ## 🗄️ Databases
 
 <p>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
@@ -99,11 +102,11 @@ I believe in learning by building projects and continuously improving my technic
 ## 🧰 Tools & Platforms
 
 <p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
@@ -118,15 +121,6 @@ I believe in learning by building projects and continuously improving my technic
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge" />
 </p>
 
-I'm also interested in learning more about:
-
-- 🔐 Cybersecurity Fundamentals
-- 🌐 Network Security
-- 🕵️ Ethical Hacking
-- 🔎 Vulnerability Assessment
-- 🐧 Linux Security
-- 🌐 Web Application Security
-
 ---
 
 # 🚀 Projects
@@ -135,6 +129,7 @@ I'm also interested in learning more about:
 
 | Project | Description | Stack | Link |
 |---|---|---|---|
+| 📊 TradeVault AI | An AI-powered trading journal & analytics app that automatically extracts chart setup levels and evaluates outcomes using Google Gemini AI. | ASP.NET Core 10 · Blazor · SQLite · Gemini AI · Docker | [Live](https://tradevault-njskyp0p.b4a.run/) · [Repo](https://github.com/Muhammadatif153700/TradeVault) |
 | 📱 QR Code Studio | A web-based QR code generation project for creating and working with QR codes through a simple interface. | HTML · CSS · JavaScript | [Live](https://qrcodeestudio.netlify.app/) |
 | 🌍 Global Country Explorer | An interactive country exploration and travel planning application with country information, weather data, country comparison, maps, and API integration. | HTML · CSS · JavaScript · REST APIs | [Live](https://global-country-explorer0.netlify.app/) · [Repo](https://github.com/Muhammadatif153700/global-country-explorer) |
 | 🍔 Meal Monkey App | A web-based food and meal application developed as part of my web development projects. | HTML · CSS · JavaScript | [Live](https://meal-monkey-app.netlify.app/) |
@@ -169,47 +164,6 @@ I'm also interested in learning more about:
 
 ---
 
-## 🚀 Future Projects
-
-More projects will be added here as I continue learning, building, and deploying new applications.
-
-| Project | Description | Stack | Link |
-|---|---|---|---|
-| 🔜 Coming Soon | New projects and applications will be added here. | — | &nbsp; |
-
----
-
-# 💡 Computer Science Interests
-
-As a Computer Science student, I'm interested in exploring different areas of technology:
-
-- 💻 Software Development
-- 🌐 Web Development
-- 📱 Mobile App Development
-- 🧮 Data Structures & Algorithms
-- 🗄️ Database Systems
-- 🧱 Object-Oriented Programming
-- 📡 Computer Networks
-- 🧠 Problem Solving
-- 🔐 Cybersecurity
-- 🛠️ Software Engineering
-
----
-
-# 📚 What I'm Working Towards
-
-- 🎓 Completing my Computer Science degree
-- 💻 Becoming a better software developer
-- 🌐 Improving my web development skills
-- 📱 Building better mobile applications
-- 🗄️ Strengthening my database knowledge
-- 🧮 Improving Data Structures & Algorithms
-- 🛡️ Developing a strong foundation in cybersecurity
-- 🚀 Building more real-world projects
-- 🧠 Continuously learning new technologies
-
----
-
 # 📊 GitHub Stats
 
 <p align="center">
@@ -227,20 +181,6 @@ As a Computer Science student, I'm interested in exploring different areas of te
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadatif153700&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
-
----
-
-# 🎯 My Goals
-
-- 🎓 Complete my Computer Science degree
-- 💻 Become a skilled Software Developer
-- 🌐 Build modern Web Applications
-- 📱 Develop useful Mobile Applications
-- 🧮 Improve my Data Structures & Algorithms skills
-- 🗄️ Become stronger in Database Systems
-- 🛡️ Continue learning Cybersecurity
-- 🚀 Build meaningful real-world projects
-- 🧠 Keep learning and improving every day
 
 ---
 
