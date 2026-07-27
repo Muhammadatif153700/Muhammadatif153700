@@ -1,5 +1,4 @@
 # 👋 Hi, I'm Muhammad Atif
-![Uploading image.png…]()
 
 
 ### 🎓 Computer Science Student | 💻 Software Developer | 🌐 Web & Mobile Developer
