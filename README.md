@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Muhammad Atif
 
-### 🎓 Computer Science Student | 🛡️ Cybersecurity Enthusiast | 💻 Software Developer
+### 🎓 Computer Science Student | 💻 Software Developer | 🌐 Web & Mobile Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Computer+Science+Student;Cybersecurity+Enthusiast;Software+Developer;Always+Learning+%26+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Computer+Science+Student;Software+Developer;Web+Developer;Mobile+App+Developer;Cybersecurity+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,34 +19,36 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science student** passionate about technology, software development, and cybersecurity.
+I'm a **Computer Science student** passionate about software development, web development, mobile application development, databases, and cybersecurity.
 
-I enjoy learning how computer systems and software work, building projects, solving programming problems, and exploring the world of cybersecurity.
+I enjoy learning new technologies, building projects, solving programming problems, and exploring different areas of Computer Science.
 
-My goal is to continuously improve my technical skills, gain practical experience, and build useful and secure applications.
+I believe in learning by building projects and continuously improving my technical and problem-solving skills.
 
 - 🎓 Computer Science Student
-- 🛡️ Cybersecurity Enthusiast
 - 💻 Software Development
-- 🔐 Interested in Ethical Hacking & Network Security
-- 🌐 Interested in Web & Application Security
-- 🧠 Always Learning New Technologies
-- 🚀 Building Projects to Improve My Skills
+- 🌐 Web Development
+- 📱 Mobile Application Development
+- 🗄️ Database Systems
+- 🧮 Data Structures & Algorithms
+- 🛡️ Cybersecurity Enthusiast
+- 🧠 Problem Solving
+- 🚀 Always Learning and Building
 
 ---
 
 ## 🔭 Currently Learning & Exploring
 
-- 🛡️ Cybersecurity
-- 🔐 Ethical Hacking
-- 🌐 Network Security
-- 🔎 Vulnerability Assessment
-- 🐧 Linux
+- 💻 Object-Oriented Programming
+- 🧮 Data Structures & Algorithms
+- 🌐 Web Development
+- 📱 Mobile App Development
+- 🗄️ Database Management Systems
+- 🔐 Cybersecurity Fundamentals
 - 📡 Computer Networking
-- 💻 Secure Coding
-- 🧪 Capture The Flag (CTF) Challenges
-- 🌐 Web & Application Security
-- 🔒 Cybersecurity Best Practices
+- 🐧 Linux
+- 🧠 Software Engineering
+- 🚀 Building Real-World Projects
 
 ---
 
@@ -62,6 +64,8 @@ My goal is to continuously improve my technical skills, gain practical experienc
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </p>
 
+---
+
 ## 🌐 Web Development
 
 <p>
@@ -70,6 +74,8 @@ My goal is to continuously improve my technical skills, gain practical experienc
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
+---
+
 ## 📱 Mobile Development
 
 <p>
@@ -77,12 +83,29 @@ My goal is to continuously improve my technical skills, gain practical experienc
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </p>
 
-## 🗄️ Database
+---
+
+## 🗄️ Databases
 
 <p>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
+
+---
+
+## 🧰 Tools & Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+---
 
 ## 🛡️ Cybersecurity
 
@@ -91,8 +114,16 @@ My goal is to continuously improve my technical skills, gain practical experienc
   <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Metasploit-2596BE?style=for-the-badge" />
 </p>
+
+I'm also interested in learning more about:
+
+- 🔐 Cybersecurity Fundamentals
+- 🌐 Network Security
+- 🕵️ Ethical Hacking
+- 🔎 Vulnerability Assessment
+- 🐧 Linux Security
+- 🌐 Web Application Security
 
 ---
 
@@ -100,15 +131,15 @@ My goal is to continuously improve my technical skills, gain practical experienc
 
 ## 🚦 Smart Traffic Management System
 
-A C++ console-based project designed to manage and simulate urban traffic.
+A C++ based project focused on managing and simulating traffic in a smart transportation environment.
 
 ### Features
 
-- 🚗 Road network management
+- 🚗 Traffic management
 - 🚦 Traffic simulation
-- 🚑 Emergency vehicle routing
-- 📊 Traffic congestion analysis
-- 🛣️ Smart traffic management
+- 🛣️ Road and route management
+- 🚑 Emergency vehicle handling
+- 📊 Traffic analysis
 
 **Technology:** `C++`
 
@@ -118,11 +149,11 @@ A C++ console-based project designed to manage and simulate urban traffic.
 
 ## 🏦 ATM Simulator
 
-A C++ based banking and ATM simulation system developed using **Object-Oriented Programming concepts**.
+A C++ based ATM and banking simulation system developed using **Object-Oriented Programming concepts**.
 
 ### Features
 
-- 🔐 Secure PIN authentication
+- 🔐 PIN authentication
 - 👤 User account management
 - 💰 Deposit and withdrawal
 - 🏦 Savings and checking accounts
@@ -139,15 +170,15 @@ A C++ based banking and ATM simulation system developed using **Object-Oriented 
 
 ## 📱 Noor Al-Falaah Islamic App
 
-A modern Flutter-based Islamic utility application built with a clean Material 3 user interface.
+A Flutter-based mobile application developed with a modern user interface.
 
 ### Features
 
-- 📱 Flutter mobile application
-- 🎨 Modern Material 3 UI
-- 🌙 Theme toggling
-- 👤 Account management
-- ❓ Integrated help center
+- 📱 Mobile application
+- 🎨 Modern UI
+- 🌙 Theme support
+- 👤 Account functionality
+- ❓ Help and support section
 
 **Technology:** `Flutter` | `Dart`
 
@@ -157,7 +188,7 @@ A modern Flutter-based Islamic utility application built with a clean Material 3
 
 ## 🎓 EduConnect
 
-An educational web-based project designed around an online learning and educational environment.
+A web-based educational project designed around an online learning and educational environment.
 
 **Technology:** `HTML`
 
@@ -167,7 +198,7 @@ An educational web-based project designed around an online learning and educatio
 
 ## 🌍 Global Country Explorer
 
-A web project focused on exploring information about countries around the world.
+A web-based project focused on exploring information about countries around the world.
 
 **Technology:** `HTML` | `CSS`
 
@@ -185,38 +216,34 @@ A web-based project developed as part of my journey in learning web development 
 
 ---
 
-# 🛡️ Cybersecurity Interests
+# 💡 Computer Science Interests
 
-Cybersecurity is one of my main areas of interest within Computer Science.
+As a Computer Science student, I'm interested in exploring different areas of technology:
 
-I'm interested in learning and exploring:
-
-- 🔐 Network Security
-- 🕵️ Ethical Hacking
-- 🔎 Vulnerability Assessment
-- 🌐 Web Application Security
-- 🛡️ Defensive Security
-- 🐧 Linux Security
+- 💻 Software Development
+- 🌐 Web Development
+- 📱 Mobile App Development
+- 🧮 Data Structures & Algorithms
+- 🗄️ Database Systems
+- 🖥️ Object-Oriented Programming
 - 📡 Computer Networks
-- 🚨 Threat Detection
-- 🔒 Secure Software Development
-- 🧪 Capture The Flag (CTF) Challenges
+- 🧠 Problem Solving
+- 🔐 Cybersecurity
+- 🛠️ Software Engineering
 
 ---
 
-# 📚 Computer Science Interests
+# 📚 What I'm Working Towards
 
-Apart from cybersecurity, I enjoy learning about different areas of Computer Science:
-
-- 💻 Object-Oriented Programming
-- 🧮 Data Structures & Algorithms
-- 🗄️ Database Systems
-- 🌐 Web Development
-- 📱 Mobile Application Development
-- 🖥️ Software Engineering
-- 🔐 Cybersecurity
-- 📡 Computer Networking
-- 🧠 Problem Solving
+- 🎓 Completing my Computer Science degree
+- 💻 Becoming a better software developer
+- 🌐 Improving my web development skills
+- 📱 Building better mobile applications
+- 🗄️ Strengthening my database knowledge
+- 🧮 Improving Data Structures & Algorithms
+- 🛡️ Developing a strong foundation in cybersecurity
+- 🚀 Building more real-world projects
+- 🧠 Continuously learning new technologies
 
 ---
 
@@ -235,21 +262,22 @@ Apart from cybersecurity, I enjoy learning about different areas of Computer Sci
 # 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadatif153700&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadatif153700&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
 
 # 🎯 My Goals
 
-- 🎓 Successfully complete my Computer Science degree
-- 🛡️ Build strong skills in Cybersecurity
-- 🔐 Learn Ethical Hacking and Penetration Testing
-- 🌐 Improve my Networking knowledge
-- 💻 Become a better Software Developer
-- 🚀 Build real-world projects
-- 🧠 Continuously learn new technologies
-- 🔒 Learn how to design and develop secure systems
+- 🎓 Complete my Computer Science degree
+- 💻 Become a skilled Software Developer
+- 🌐 Build modern Web Applications
+- 📱 Develop useful Mobile Applications
+- 🧮 Improve my Data Structures & Algorithms skills
+- 🗄️ Become stronger in Database Systems
+- 🛡️ Continue learning Cybersecurity
+- 🚀 Build meaningful real-world projects
+- 🧠 Keep learning and improving every day
 
 ---
 
@@ -270,11 +298,11 @@ Apart from cybersecurity, I enjoy learning about different areas of Computer Sci
 ---
 
 <p align="center">
-  <b>🎓 Computer Science Student | 🛡️ Cybersecurity Enthusiast | 💻 Software Developer</b>
+  <b>🎓 Computer Science Student | 💻 Software Developer | 🌐 Web & Mobile Developer</b>
 </p>
 
 <p align="center">
-  🔐 Learning Cybersecurity • 💻 Building Projects • 🚀 Growing Every Day
+  🧠 Learning • 💻 Building • 🚀 Growing
 </p>
 
 <p align="center">
