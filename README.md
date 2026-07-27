@@ -31,6 +31,7 @@ I believe in learning by building projects and continuously improving my technic
 - 📱 Mobile Application Development
 - 🗄️ Database Systems
 - 🧮 Data Structures & Algorithms
+- 🧱 Object-Oriented Programming
 - 🛡️ Cybersecurity Enthusiast
 - 🧠 Problem Solving
 - 🚀 Always Learning and Building
@@ -127,92 +128,53 @@ I'm also interested in learning more about:
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Projects
 
-## 🚦 Smart Traffic Management System
+## 🌐 Web Development Projects
 
-A C++ based project focused on managing and simulating traffic in a smart transportation environment.
-
-### Features
-
-- 🚗 Traffic management
-- 🚦 Traffic simulation
-- 🛣️ Road and route management
-- 🚑 Emergency vehicle handling
-- 📊 Traffic analysis
-
-**Technology:** `C++`
-
-🔗 [View Project](https://github.com/Muhammadatif153700/SMART-TRAFFIC-MANAGEMENT-SYSTEM)
+| Project | Description | Stack | Link |
+|---|---|---|---|
+| 📱 QR Code Studio | A web-based QR code generation project for creating and working with QR codes through a simple interface. | HTML · CSS · JavaScript | [Live](https://qrcodeestudio.netlify.app/) |
+| 🌍 Global Country Explorer | An interactive country exploration and travel planning application with country information, weather data, country comparison, maps, and API integration. | HTML · CSS · JavaScript · REST APIs | [Live](https://global-country-explorer0.netlify.app/) · [Repo](https://github.com/Muhammadatif153700/global-country-explorer) |
+| 🍔 Meal Monkey App | A web-based food and meal application developed as part of my web development projects. | HTML · CSS · JavaScript | [Live](https://meal-monkey-app.netlify.app/) |
+| 🎓 EduConnect | An educational web project designed around an online learning and educational environment. | HTML | &nbsp; · [Repo](https://github.com/Muhammadatif153700/EduConnect) |
+| ⏳ How Much Life | A web-based project developed as part of my journey in learning web development and building interactive applications. | HTML | &nbsp; · [Repo](https://github.com/Muhammadatif153700/howmuchlife) |
 
 ---
 
-## 🏦 ATM Simulator
+## 💻 Software Development & C++ Projects
 
-A C++ based ATM and banking simulation system developed using **Object-Oriented Programming concepts**.
-
-### Features
-
-- 🔐 PIN authentication
-- 👤 User account management
-- 💰 Deposit and withdrawal
-- 🏦 Savings and checking accounts
-- 📜 Transaction history
-- 👨‍💼 Admin functionality
-- 💾 File-based data persistence
-- 🔄 Account management
-
-**Technology:** `C++` | `OOP` | `File Handling`
-
-🔗 [View Project](https://github.com/Muhammadatif153700/ATM-Simulator)
+| Project | Description | Stack | Link |
+|---|---|---|---|
+| 🏦 ATM Simulator | A C++ based banking and ATM simulation system featuring account management, PIN authentication, deposits, withdrawals, transaction history, admin functionality, and file persistence. | C++ · OOP · File Handling | &nbsp; · [Repo](https://github.com/Muhammadatif153700/ATM-Simulator) |
+| 🚦 Smart Traffic Management System | A C++ project focused on managing and simulating urban traffic with road network management, traffic simulation, emergency vehicle routing, and congestion analysis. | C++ · OOP · Data Structures | &nbsp; · [Repo](https://github.com/Muhammadatif153700/SMART-TRAFFIC-MANAGEMENT-SYSTEM) |
 
 ---
 
-## 📱 Noor Al-Falaah Islamic App
+## 📱 Mobile Application Projects
 
-A Flutter-based mobile application developed with a modern user interface.
-
-### Features
-
-- 📱 Mobile application
-- 🎨 Modern UI
-- 🌙 Theme support
-- 👤 Account functionality
-- ❓ Help and support section
-
-**Technology:** `Flutter` | `Dart`
-
-🔗 [View Project](https://github.com/Muhammadatif153700/Noor-al-Falaah-Islamic-App)
+| Project | Description | Stack | Link |
+|---|---|---|---|
+| 🕌 Noor Al-Falaah Islamic App | A Flutter-based Islamic utility application featuring a modern Material 3 interface, theme support, account management, and an integrated help center. | Flutter · Dart · Material 3 | &nbsp; · [Repo](https://github.com/Muhammadatif153700/Noor-al-Falaah-Islamic-App) |
 
 ---
 
-## 🎓 EduConnect
+## 🛡️ Cybersecurity & Networking
 
-A web-based educational project designed around an online learning and educational environment.
-
-**Technology:** `HTML`
-
-🔗 [View Project](https://github.com/Muhammadatif153700/EduConnect)
-
----
-
-## 🌍 Global Country Explorer
-
-A web-based project focused on exploring information about countries around the world.
-
-**Technology:** `HTML` | `CSS`
-
-🔗 [View Project](https://github.com/Muhammadatif153700/global-country-explorer)
+| Project | Description | Stack | Link |
+|---|---|---|---|
+| 🔐 Cybersecurity Learning Projects | Exploring cybersecurity concepts, networking, Linux, security tools, and secure software development. | Linux · Networking · Nmap · Security Tools | &nbsp; |
+| 🌐 Network Security Learning | Learning and practicing fundamental concepts related to computer networks and security. | Networking · Linux · Nmap | &nbsp; |
 
 ---
 
-## ⏳ How Much Life
+## 🚀 Future Projects
 
-A web-based project developed as part of my journey in learning web development and building interactive applications.
+More projects will be added here as I continue learning, building, and deploying new applications.
 
-**Technology:** `HTML`
-
-🔗 [View Project](https://github.com/Muhammadatif153700/howmuchlife)
+| Project | Description | Stack | Link |
+|---|---|---|---|
+| 🔜 Coming Soon | New projects and applications will be added here. | — | &nbsp; |
 
 ---
 
@@ -225,7 +187,7 @@ As a Computer Science student, I'm interested in exploring different areas of te
 - 📱 Mobile App Development
 - 🧮 Data Structures & Algorithms
 - 🗄️ Database Systems
-- 🖥️ Object-Oriented Programming
+- 🧱 Object-Oriented Programming
 - 📡 Computer Networks
 - 🧠 Problem Solving
 - 🔐 Cybersecurity
