@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:512BD4&height=220&section=header&text=Muhammad%20Atif&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer%20%7C%20Web%20%26%20Mobile%20Developer&descAlignY=62&descSize=18" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30&height=220&section=header&text=Muhammad%20Atif&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer%20-%20Web%20%26%20Mobile%20Developer&descAlignY=62&descSize=18" width="100%" alt="Header Banner" />
 </p>
 
 # 👋 Hi, I'm Muhammad Atif
