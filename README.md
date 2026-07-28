@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="https://github.com/Muhammadatif153700">
-    <img src="https://svg-banners.my.to/api/v1/banners/gradient?title=Muhammad%20Atif&subtitle=Full%20Stack%20Software%20Engineer%20%7C%20Web%20%26%20Mobile%20Developer&theme=dark" width="100%" alt="Muhammad Atif Banner" />
-  </a>
-</p>
 
 # 👋 Hi, I'm Muhammad Atif
 
