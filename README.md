@@ -1,4 +1,3 @@
-
 # 👋 Hi, I'm Muhammad Atif
 
 ### 🎓 Computer Science Student | 💻 Software Developer | 🌐 Web & Mobile Developer
@@ -130,13 +129,14 @@ I believe in learning by building projects and continuously improving my technic
 
 | Project | Description | Stack | Link |
 |---|---|---|---|
+| 🤖 Capstone AI Streaming Chat | A real-time, token-by-token streaming AI qualification chat application featuring Claude 3.5 Sonnet, auto-scroll management, and mid-stream cancellation controls. | Next.js · React · Vercel AI SDK · Claude 3.5 · Tailwind CSS | [Live](https://capstone-streaming-chat-hrb9ye6h2-muhammadatif153700s-projects.vercel.app/) |
 | 📊 TradeVault AI | An AI-powered trading journal & analytics app that automatically extracts chart setup levels and evaluates outcomes using Google Gemini AI. | ASP.NET Core 10 · Blazor · SQLite · Gemini AI · Docker | [Live](https://tradevault-njskyp0p.b4a.run/) · [Repo](https://github.com/Muhammadatif153700/TradeVault) |
 | 🍕 BiteCraft | An interactive food and culinary web application featuring a modern UI and smooth user experience. | HTML · CSS · JavaScript | [Live](https://bitecraft0.netlify.app/) |
 | 📱 QR Code Studio | A web-based QR code generation project for creating and working with QR codes through a simple interface. | HTML · CSS · JavaScript | [Live](https://qrcodeestudio.netlify.app/) |
 | 🌍 Global Country Explorer | An interactive country exploration and travel planning application with country information, weather data, country comparison, maps, and API integration. | HTML · CSS · JavaScript · REST APIs | [Live](https://global-country-explorer0.netlify.app/) · [Repo](https://github.com/Muhammadatif153700/global-country-explorer) |
 | 🍔 Meal Monkey App | A web-based food and meal application developed as part of my web development projects. | HTML · CSS · JavaScript | [Live](https://meal-monkey-app.netlify.app/) |
 | 🎓 EduConnect | An educational web project designed around an online learning and educational environment. | HTML | &nbsp; · [Repo](https://github.com/Muhammadatif153700/EduConnect) |
-| ⏳ How Much Life | A web-based project developed as part of my journey in learning web development and building interactive applications. | HTML | &nbsp; · [Repo](https://github.com/Muhammadatif153700/howmuchlife) |
+| ⏳ How Much Life | A web-based interactive application designed to help users reclaim their time and visualize life metrics. | HTML · CSS · JavaScript | [Live](https://howmuchlife.netlify.app/) · [Repo](https://github.com/Muhammadatif153700/howmuchlife) |
 
 ---
 
