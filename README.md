@@ -129,7 +129,7 @@ I believe in learning by building projects and continuously improving my technic
 
 | Project | Description | Stack | Link |
 |---|---|---|---|
-| 🤖 Capstone AI Streaming Chat | A real-time, token-by-token streaming AI qualification chat application featuring Claude 3.5 Sonnet, auto-scroll management, and mid-stream cancellation controls. | Next.js · React · Vercel AI SDK · Claude 3.5 · Tailwind CSS | [Live](capstone-streaming-chat.vercel.app) |
+| 🤖 Capstone AI Streaming Chat | A real-time, token-by-token streaming AI qualification chat application featuring Claude 3.5 Sonnet, auto-scroll management, and mid-stream cancellation controls. | Next.js · React · Vercel AI SDK · Claude 3.5 · Tailwind CSS | [Live](https://capstone-streaming-chat.vercel.app/) |
 | 📊 TradeVault AI | An AI-powered trading journal & analytics app that automatically extracts chart setup levels and evaluates outcomes using Google Gemini AI. | ASP.NET Core 10 · Blazor · SQLite · Gemini AI · Docker | [Live](https://tradevault-njskyp0p.b4a.run/) · [Repo](https://github.com/Muhammadatif153700/TradeVault) |
 | 🍕 BiteCraft | An interactive food and culinary web application featuring a modern UI and smooth user experience. | HTML · CSS · JavaScript | [Live](https://bitecraft0.netlify.app/) |
 | 📱 QR Code Studio | A web-based QR code generation project for creating and working with QR codes through a simple interface. | HTML · CSS · JavaScript | [Live](https://qrcodeestudio.netlify.app/) |
