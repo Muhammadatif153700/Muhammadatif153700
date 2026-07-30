@@ -168,22 +168,23 @@ I believe in learning by building projects and continuously improving my technic
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammadatif153700&show_icons=true&theme=tokyonight&hide_border=true" alt="Muhammad Atif's GitHub Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Muhammadatif153700&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+![Muhammad Atif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhammadatif153700&show_icons=true&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Muhammadatif153700&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
 # 📈 Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadatif153700&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
+<div align="center">
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadatif153700&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+</div>
 ---
 
 # 📫 Connect With Me
