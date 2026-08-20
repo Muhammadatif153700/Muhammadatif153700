@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://myporfolio4uu.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Live_Demo-FF69B4?style=for-the-badge&logo=globe&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-myporfolio4uu.netlify.app-FF69B4?style=for-the-badge&logo=globe&logoColor=white" />
   </a>
   <a href="https://github.com/Muhammadatif153700">
     <img src="https://img.shields.io/badge/GitHub-Muhammadatif153700-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -29,6 +29,7 @@ I enjoy learning new technologies, building projects, solving programming proble
 I believe in learning by building projects and continuously improving my technical and problem-solving skills.
 
 - 🎓 Computer Science Student
+- 🌐 Personal Portfolio: [myporfolio4uu.netlify.app](https://myporfolio4uu.netlify.app/)
 - 💻 Software Development
 - 🌐 Web Development
 - 📱 Mobile Application Development
@@ -38,6 +39,18 @@ I believe in learning by building projects and continuously improving my technic
 - 🛡️ Cybersecurity Enthusiast
 - 🧠 Problem Solving
 - 🚀 Always Learning and Building
+
+---
+
+## 🌐 Personal Portfolio Website
+
+Check out my interactive developer portfolio featuring my latest projects, tech stack details, and contact info:
+
+<p align="center">
+  <a href="https://myporfolio4uu.netlify.app/">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-myporfolio4uu.netlify.app-00F7FF?style=for-the-badge&logo=netlify&logoColor=black" />
+  </a>
+</p>
 
 ---
 
@@ -132,6 +145,7 @@ I believe in learning by building projects and continuously improving my technic
 
 | Project | Description | Stack | Link |
 |---|---|---|---|
+| 🌐 My Portfolio | Personal developer portfolio showcasing my work, projects, technical skills, and background. | HTML · CSS · JavaScript | [Live](https://myporfolio4uu.netlify.app/) |
 | 🤖 Capstone AI Streaming Chat | A real-time, token-by-token streaming AI qualification chat application featuring Claude 3.5 Sonnet, auto-scroll management, and mid-stream cancellation controls. | Next.js · React · Vercel AI SDK · Claude 3.5 · Tailwind CSS | [Live](https://capstone-streaming-chat.vercel.app/) |
 | 📊 TradeVault AI | An AI-powered trading journal & analytics app that automatically extracts chart setup levels and evaluates outcomes using Google Gemini AI. | ASP.NET Core 10 · Blazor · SQLite · Gemini AI · Docker | [Live](https://tradevault-njskyp0p.b4a.run/) · [Repo](https://github.com/Muhammadatif153700/TradeVault) |
 | 🍕 BiteCraft | An interactive food and culinary web application featuring a modern UI and smooth user experience. | HTML · CSS · JavaScript | [Live](https://bitecraft0.netlify.app/) |
